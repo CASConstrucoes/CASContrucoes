@@ -888,7 +888,7 @@ padding: 3px;
 }
 
 /* Responsividade para telas entre 500px e 1500px */
-@media (min-width: 1000px) and (max-width: 1500px) {
+@media (min-width: 1000px) and (max-width: 1700px) {
 
     .imagem-telemovéldeitado
     {
