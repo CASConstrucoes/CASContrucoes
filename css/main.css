@@ -172,6 +172,7 @@ main, .content {
     right: 2%;
     float: left;
     position: relative;
+    display: none;
 }
 
 .banner-portatil {
